@@ -1,7 +1,7 @@
 ## Hello there...
 * I am Nikolas
-* I was born in 2001
-* I finish my training training as software developer in 2023, but I still try to improve my skills as a developer
+* Born 2001
+* Always trying to improve my skills as developer
 
 <!---
 nikolas109/nikolas109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
